@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New Make My Vacation</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Make My Vacation</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">55464cb521120110a866589604c20d56</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-10 14:25:55</sys_created_on>
+        <sys_id>7f732173976311107ff8b846f053af4d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Make My Vacation</sys_name>
+        <sys_package display_value="Make my Vacation" source="x_651243_make_my_v">ca62e17f972311107ff8b846f053afcd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Make my Vacation">ca62e17f972311107ff8b846f053afcd</sys_scope>
+        <sys_update_name>sys_wizard_answer_7f732173976311107ff8b846f053af4d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-10 14:25:55</sys_updated_on>
+        <table/>
+        <target_url>x_651243_make_my_v_make_my_vacation.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

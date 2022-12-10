@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Make My Vacation" max_length="40" name="x_651243_make_my_v_make_my_vacation" type="collection"/>
+</database>
